@@ -1,4 +1,4 @@
-#Spreadsheet
+# Spreadsheet
 
 This is the showcase of a simple spreadsheet program. This program is built using HTML, CSS and C#, using Blazor.
 
@@ -46,7 +46,9 @@ Error checking is also built into the app. Whenever the user inputs a incorrect 
 
 ![](img11.png)
 
-The backend uses a Formula Class to keep track of formulas entered and solving the formulas. The "Formula Error" above is from the formula class. This class ensures that a valid formula has entered before updating the spreadsheet backend. The Formula class also has an evaluate method to evaluate the formula's provided: ![loading-ag-274](img12.png)
+The backend uses a Formula Class to keep track of formulas entered and solving the formulas. The "Formula Error" above is from the formula class. This class ensures that a valid formula has entered before updating the spreadsheet backend. The Formula class also has an evaluate method to evaluate the formula's provided:
+
+![](img12.png)
 
 Syntax checking is also done in this class, by keeping track of the operators. 
 
